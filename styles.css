@@ -1,0 +1,76 @@
+@import "url(https://fonts.googleapis.com/css?family=Germania+One)";
+
+body {
+  background-color: #f8f3e7ff;
+}
+
+#header {
+  font-family: 'Germania One', cursive;
+  display: block;
+  margin: 0px auto;
+  width: 60%;
+  height: 100px;
+  background-color: #d4af37;
+  padding: 25px;
+  border-top-right-radius: 25px;
+  border-top-left-radius: 25px;
+  border-left: 5px solid #d4af37;
+  border-right: 5px solid #d4af37;
+  border-top: 5px solid #d4af37;
+}
+
+.list h1 {
+  display: inline;
+  padding-left: 10px;
+}
+
+.list img {
+  display: inline;
+  height: 100px;
+}
+
+.list li{
+  display: inline;
+  padding-left: 20%;
+}
+
+.list a {
+  color: black;
+  text-decoration: none;
+}
+
+.list a:hover {
+  color: #b63d26ff;
+}
+
+#content {
+  display: block;
+  margin: 0px auto;
+  width: 60%;
+  height: 700px;
+  background-color: white;
+  border-left: 5px solid #d4af37;
+  border-right: 5px solid #d4af37;
+  padding: 25px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#footer {
+  display: block;
+  margin: 0px auto;
+  width: 60%;
+  height: 40px;
+  background-color: white;
+  border-left: 5px solid #d4af37;
+  border-right: 5px solid #d4af37;
+  border-bottom: 5px solid #d4af37;
+  border-top: 5px solid #d4af37;
+  padding: 25px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.links li {
+  display: block;
+  margin-bottom: 20px;
+}
